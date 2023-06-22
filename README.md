@@ -1,6 +1,8 @@
 # Contact List Application
 
-This is an application to list, add, update and delete contacts made using ReactJS and Firebase Firestore.
+## This is an application to list, add, update and delete contacts made using ReactJS and Firebase Firestore.
+
+## Link to the application: https://contact-list-app-yash.netlify.app/
 
 ## To run this app locally:
 
