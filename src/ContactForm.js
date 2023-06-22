@@ -37,7 +37,7 @@ const ContactForm = ({ initialContact }) => {
         await db.collection("contact-list").doc(initialContact.id).update(contact);
         alert("Contact updated successfully.");
       } else {
-        await db.collection("contacts").add(contact);
+        await db.collection("contact-list").add(contact);
         alert("Contact added successfully.");
       }
 
