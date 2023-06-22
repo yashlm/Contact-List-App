@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Contact List Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an application to list, add, update and delete contacts made using ReactJS and Firebase Firestore.
 
-## Available Scripts
+## To run this app locally:
 
-In the project directory, you can run:
+First install the npm package:
+
+### `npm install`
+
+Then in the project directory, you can run:
 
 ### `npm start`
 
